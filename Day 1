@@ -1,4 +1,4 @@
-Limbing the stairs
+Climbing the stairs
 
  int countDistinctWays(int n) {
    if (n<0)
